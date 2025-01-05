@@ -233,4 +233,7 @@ i.ri-heart-fill {
     body{
         background-color: #121212;
     }
+    .card2 i{
+        top: 50%;
+    }
 }
